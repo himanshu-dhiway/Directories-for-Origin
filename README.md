@@ -442,7 +442,7 @@ The documentation in this repository is available under [specify license - e.g.,
 **Current Version:** 1.0  
 **Last Updated:** November 2025  
 **Maintained By:** Dhiway  
-**Repository URL:** https://github.com/himanshu-dhiwav/Directories-for-Oasis
+**Repository URL:** https://github.com/himanshu-dhiway/Directories-for-Oasis
 
 ---
 
