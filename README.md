@@ -77,16 +77,3 @@ Oasis provides a centralized library of public and commercial data sources cruci
 - Repo: [https://github.com/himanshu-dhiway/Directories-for-Oasis]
 
 ***
-
-This summary ensures that BFSI professionals find key compliance data sources and integration guidance at a glance, with details for power-users and contributors easy to access in sub-files and docs.[1][3]
-
-[1](https://www.federalreserve.gov/files/pia_oasis.pdf)
-[2](https://www.gbbc.io/uploads/gsmi50.pdf)
-[3](https://irisbusiness.com/streamlining-regulatory-reporting-how-rbis-cims-is-transforming-bfsi-compliance/)
-[4](http://www.trai.gov.in/sites/default/files/2024-09/Cloud_Computing_Consultation_paper_10_june_2016.pdf)
-[5](https://www.oasis-open.org/tc-dps/)
-[6](https://nsearchives.nseindia.com/emerge/corporates/content/PE_Analytics_PROSP.pdf)
-[7](https://shiftasia.com/column/regulatory-compliance-for-bfis-in-the-digital-world-a-comprehensive-guide/)
-[8](https://assets.airtel.in/teams/simplycms/web/docs/Airtel-Integrated_Report_and_Annual_Financial_Statements_2019-20.pdf)
-[9](https://www.oasis-open.org)
-[10](https://sidtm.edu.in/students/)
