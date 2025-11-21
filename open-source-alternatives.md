@@ -1,0 +1,171 @@
+# Open Source & Free Alternatives
+
+> Free and open-source databases for sanctions screening, PEP checks, and corporate verification
+
+---
+
+## Table of Contents
+1. [OpenSanctions](#opensanctions)
+2. [ICIJ Offshore Leaks Database](#icij-offshore-leaks-database)
+3. [OpenCorporates](#opencorporates)
+
+---
+
+## OpenSanctions
+
+**Provider:** OpenSanctions (Open Source Project)
+
+### What It Provides
+- Consolidated sanctions data from multiple sources
+- PEP data (limited coverage)
+- Structured datasets in multiple formats
+- API access with limited free tier
+
+### Direct Access
+
+| Resource | URL |
+|----------|-----|
+| **Website** | https://www.opensanctions.org |
+| **GitHub Repository** | https://github.com/opensanctions |
+| **API Documentation** | https://www.opensanctions.org/docs/api/ |
+
+### Cost
+- **FREE** for small-scale use
+- **Paid** for commercial high-volume usage
+
+### Why BFSI Uses This
+**Budget-friendly option** - Startups and small financial institutions use this before affording commercial databases like World-Check. **Transparency** - All data sources are publicly documented and verifiable.
+
+### Data Sources Covered
+- OFAC SDN List
+- UN Sanctions
+- EU Sanctions
+- UK Sanctions
+- Interpol Red Notices
+- PEPs from various countries (limited)
+
+### Formats Available
+- JSON
+- CSV
+- Excel
+- API (REST)
+
+---
+
+## ICIJ Offshore Leaks Database
+
+**Provider:** International Consortium of Investigative Journalists
+
+### What It Provides
+- Offshore entities and individuals
+- Panama Papers data
+- Paradise Papers data
+- Pandora Papers data
+- Beneficial ownership information
+
+### Direct Access
+
+| Resource | URL |
+|----------|-----|
+| **Search Portal** | https://offshoreleaks.icij.org |
+| **About the Database** | https://www.icij.org/investigations/offshore/ |
+
+### Cost
+**FREE** - No registration required
+
+### Why BFSI Uses This
+**Beneficial ownership detection** - Uncovers hidden wealth and complex ownership structures. **Reputational risk screening** - Identifies high-net-worth individuals with offshore holdings for enhanced due diligence.
+
+### Coverage
+- 810,000+ offshore entities
+- 320+ jurisdictions
+- Historical data from multiple leaks
+- Connection graphs showing relationships
+
+### Use Cases
+1. Enhanced due diligence for HNI clients
+2. Ultimate beneficial owner identification
+3. Tax evasion red flags
+4. Politically exposed persons tracking
+5. Complex ownership structure analysis
+
+---
+
+## OpenCorporates
+
+**Provider:** OpenCorporates Ltd.
+
+### What It Provides
+- Global company database
+- 200+ million companies worldwide
+- Director information
+- Corporate filings and documents
+- Company relationships and ownership
+
+### Direct Access
+
+| Resource | URL | Cost |
+|----------|-----|------|
+| **Search Portal** | https://opencorporates.com | FREE (basic search) |
+| **API Access** | https://api.opencorporates.com | From $100/month |
+
+### Coverage
+- 200+ million companies
+- 140+ jurisdictions globally
+- Real-time updates
+- Historical data
+
+### Why BFSI Uses This
+**Global company verification** - Validates foreign entities for international banking. **Cross-border due diligence** - Essential for import/export financing and trade finance.
+
+### API Features
+- Company search by name/number
+- Officer (director) search
+- Jurisdiction-specific searches
+- Bulk data access (paid plans)
+
+### Free vs Paid
+
+**Free:**
+- Basic company search
+- View company profiles
+- Limited search results
+
+**Paid ($100-$500+/month):**
+- API access
+- Unlimited searches
+- Bulk downloads
+- Advanced filtering
+- Historical data access
+
+---
+
+## Comparison Table
+
+| Feature | OpenSanctions | ICIJ Offshore Leaks | OpenCorporates |
+|---------|---------------|---------------------|----------------|
+| **Primary Use** | Sanctions/PEP screening | Beneficial ownership | Company verification |
+| **Cost** | Free/Paid | Free | Free/Paid |
+| **API Available** | Yes | No | Yes |
+| **Data Updates** | Daily | As investigations released | Daily |
+| **Global Coverage** | Yes | Yes | Yes |
+| **Best For** | AML compliance | Enhanced DD | Corporate KYC |
+
+---
+
+## Implementation Tips
+
+### For Startups/Small Teams
+1. Start with **OpenSanctions** for sanctions screening
+2. Use **ICIJ** for manual enhanced due diligence
+3. Use **OpenCorporates** free search for occasional lookups
+
+### For Scaling Operations
+1. Subscribe to **OpenSanctions API** for automated screening
+2. Upgrade to **OpenCorporates API** for bulk verifications
+3. Combine with commercial databases as you grow
+
+---
+
+*Last Updated: November 2025*
+```
