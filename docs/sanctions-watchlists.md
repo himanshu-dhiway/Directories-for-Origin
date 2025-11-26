@@ -32,10 +32,18 @@
 - The Specially Designated Nationals (SDN) List: Names of individuals, organizations, and vessels whose assets are blocked and with whom U.S. persons are generally prohibited from dealing.​
 - The Consolidated Non-SDN List: Contains names subject to specific, targeted restrictions (sectoral sanctions, transaction limits, etc.) but not complete asset freezes.
 
-##Purpose of the OFAC Sanctions Registry
+### Compliance Importance(reason why BFSI use this)
+- U.S. persons and organizations must screen against both lists (SDN and Non-SDN) to avoid direct or indirect dealings with sanctioned parties, which can carry heavy legal and financial penalties.
+- Compliance protects businesses not only from regulatory action, but also from reputational and financial risk linked to inadvertent involvement with sanctioned individuals or organizations.
 
-### Why BFSI Uses This
-**US compliance requirement** - Banks with USD transactions must screen against OFAC. Correspondent banking relationships require OFAC screening to avoid US penalties.
+### Updates and Usage.
+- The SDN list and Non-SDN consolidated list are frequently updated as global events occur; the tool shows the last update date and provides recent downloadable datasets.(you can access them through the officail website of OFAC here : https://ofac.treasury.gov/sanctions-list-service)
+- The tool supports compliance officers, financial institutions, exporters, and others that need to verify counterparties.​
+
+| List Name     | Description                                                                    | Consequence of Listing                    |
+| ------------- | ------------------------------------------------------------------------------ | ----------------------------------------- |
+| SDN List      | Comprehensive blocking: all assets frozen, all dealings generally prohibited . | Full asset freeze, U.S. dealings banned . |
+| Non-SDN Lists | Targeted sanctions: limits on transactions, sectors, or export controls .      | Limited restrictions, not full block .    |
 
 ### Direct Access
 
@@ -48,12 +56,35 @@
 
 **Note:** Click on "Download SDN List" option on the search page
 
+The OFAC SDN (Specially Designated Nationals) list and the Non‑SDN consolidated list differ fundamentally in the scope and severity of restrictions imposed:
+### SDN List: Comprehensive Blocking Sanctions
+- The SDN list contains individuals, entities, vessels, and aircraft whose assets are blocked and with whom U.S. persons are generally forbidden to engage in any transactions.
+- Being listed as an SDN means complete asset freezes and near-total prohibition on financial dealings or provision of services with the listed parties.
+- SDNs may include those acting on behalf of targeted countries, international terrorists, narcotics traffickers, and proliferators of weapons of mass destruction, among others.
+
+### Non‑SDN Consolidated List: Targeted, Limited Restrictions
+- The Non‑SDN consolidated list brings together entities and individuals subject to specific restrictions that do not amount to a full asset block.
+- Restrictions may include financial transaction limits, sectoral bans (such as finance or energy), export controls, or participation prohibitions, but not a comprehensive freeze.
+- Examples of lists within the consolidated Non-SDN list include the Sectoral Sanctions Identifications (SSI) list and Menu-Based Sanctions lists, which focus on targeted policy objectives.
+- Parties on these lists can still engage in some business activity but within strict, narrowly defined limits.
+
+### Comparison Table
+| Aspect     | SDN List                                        | Non‑SDN Consolidated List                   |
+| ---------- | ----------------------------------------------- | ------------------------------------------- |
+| Scope      | Full asset block; all U.S. dealings forbidden   | Targeted sanctions; limited restrictions    |
+| Programs   | International terrorism, WMD, country sanctions | Sectoral, menu-based, export controls, etc. |
+| Compliance | Any transaction triggers severe penalties       | Certain types of dealings are prohibited    |
+
 ### Update Frequency
 Daily
 
 ---
 
 ## UN Security Council Sanctions
+
+- The UN Security Council (UNSC) Consolidated List contains all individuals and entities subject to UN sanctions across all active sanctions regimes (terrorism, DPRK, Iran, country conflicts, etc.). Sanctions can include asset freezes, arms embargoes, travel bans, and other restrictions, and all UN member states (including India) are expected to implement them via domestic law and regulation.
+- Data typically includes: full name, aliases, date/place of birth, nationality, addresses, reasons for listing, and the specific sanctions regime. The list is provided in structured formats and is the “base layer” for many national lists (including OFAC and EU).​
+- For Indian BFSI: RBI and Indian government notifications effectively require banks and NBFCs to ensure they are not dealing with parties on the UN list; many screening systems consume the UNSC consolidated list as a standard feed.
 
 **Authority:** United Nations Security Council
 
