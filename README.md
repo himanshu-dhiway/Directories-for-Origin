@@ -1,5 +1,12 @@
 ***
 
+## Hi, Himanshu this side, the task for compiling all the necessary directories is given to me and I feel that I should be more casual while sharing this data to you as I want to explain everything why each of the datasets are really necessary for the origin and how we can implement them in origin in the first place. 
+
+this is the first draft and it will keep on changing I am mostly splitting my time learning rust and scraping directories across the internet , the moment I feel confident on rust I will start on developing the origin too, I hope this goes well.
+
+the directories mentioned downward are just the glimpses of the directories that I scraped and can be used in origin apart from this I made one more doc called as priority doc which adds my personal commentory on which datasets should or must be used first to get the desired results.
+I hope you love this;)
+
 ## Oasis Directories: BFSI Data Source Repository
 
 Oasis provides a centralized library of public and commercial data sources crucial for compliance, verification, and due diligence in Banking, Financial Services, and Insurance (BFSI) operations. The repository covers identity verification, AML checks, sanctions screening, corporate and asset verification, and more.
